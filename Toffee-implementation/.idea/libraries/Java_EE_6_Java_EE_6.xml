@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="Java EE 6-Java EE 6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.transaction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javax.mail.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../../SOFTWARE ASSIGNMENT 3/Toffee-implementation/src" />
+      <root url="file://$PROJECT_DIR$/../../TofeeClone/untitled/src" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/adaptive" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/alwaysencrypted" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/azureactivedirectoryauthentication" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/connections" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/constrained" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/dataclassification" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/datatypes" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/resultsets" />
+      <root url="file://$PROJECT_DIR$/../../ /sqljdbc_12.2/enu/samples/sparse" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../.." recursive="false" />
+  </library>
+</component>

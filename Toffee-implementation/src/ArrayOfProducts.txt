@@ -1,0 +1,6 @@
+Juice 5.0 BYKILO 1482
+Candy 1.5 BYKILO 394
+Chocolate 15.0 BYKILO 350
+JellyCola 5.5 BYKILO 595
+Galaxy 10.0 BYKILO 97
+Pringles 35.0 BYKILO 685
